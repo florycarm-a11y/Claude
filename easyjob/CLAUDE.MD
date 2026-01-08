@@ -58,7 +58,7 @@ easyjob/
 
 1. **Professional yet Dynamic**: Balance between corporate credibility (for B2B) and student appeal
 2. **Mobile-First**: Responsive design prioritizing mobile experience
-3. **TBS Branding**: Indigo blue primary + Orange accent (inspired by TBS colors)
+3. **TBS Branding**: Pink/Rose primary + Violet accent (Toulouse colors - Rose & Violette)
 4. **Dual CTA Strategy**: "Je recrute" (I recruit) vs "Je cherche un job" (I'm looking for a job)
 5. **No Backend Yet**: Static prototype with simulated data
 
@@ -189,11 +189,11 @@ All design tokens defined as CSS custom properties in `:root`:
 
 ### Color Palette
 ```css
-Primary (Indigo):    #6366f1  /* Main brand color, CTAs */
-Primary Dark:        #4f46e5  /* Hover states */
-Primary Light:       #818cf8  /* Badges, accents */
-Secondary (Orange):  #f97316  /* TBS accent, highlights */
-Accent (Purple):     #8b5cf6  /* Gradients, special elements */
+Primary (Rose):      #ec4899  /* Main brand color, CTAs, TBS Pink */
+Primary Dark:        #db2777  /* Hover states, deeper pink */
+Primary Light:       #f9a8d4  /* Badges, accents, light pink */
+Secondary (Red):     #f43f5e  /* Secondary accent, soft red */
+Accent (Violet):     #8b5cf6  /* Gradients, Toulouse Violette */
 Success (Green):     #10b981  /* Positive feedback */
 Warning (Amber):     #f59e0b  /* Alerts */
 Danger (Red):        #ef4444  /* Errors */

@@ -62,12 +62,12 @@ easyjob/
 
 ## 🎨 Design & Branding
 
-### Palette de Couleurs (TBS Inspired)
+### Palette de Couleurs (TBS Toulouse - Rose & Violette)
 
 ```css
-Primaire:    #6366f1 (Bleu indigo)
-Secondaire:  #f97316 (Orange TBS)
-Accent:      #8b5cf6 (Violet)
+Primaire:    #ec4899 (Rose TBS)
+Secondaire:  #f43f5e (Rouge doux)
+Accent:      #8b5cf6 (Violet violette de Toulouse)
 Succès:      #10b981 (Vert)
 Danger:      #ef4444 (Rouge)
 ```
@@ -163,8 +163,8 @@ const jobsDatabase = [
 
 ```css
 :root {
-    --primary-color: #6366f1;  /* Votre couleur */
-    --secondary-color: #f97316; /* Votre couleur */
+    --primary-color: #ec4899;  /* Rose TBS */
+    --secondary-color: #f43f5e; /* Rouge doux */
 }
 ```
 

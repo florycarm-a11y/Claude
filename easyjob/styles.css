@@ -3,12 +3,12 @@
    =========================== */
 
 :root {
-    /* Couleurs principales - TBS inspired */
-    --primary-color: #6366f1;
-    --primary-dark: #4f46e5;
-    --primary-light: #818cf8;
-    --secondary-color: #f97316;
-    --secondary-dark: #ea580c;
+    /* Couleurs principales - TBS Toulouse (Rose & Violette) */
+    --primary-color: #ec4899;
+    --primary-dark: #db2777;
+    --primary-light: #f9a8d4;
+    --secondary-color: #f43f5e;
+    --secondary-dark: #e11d48;
     --accent-color: #8b5cf6;
 
     /* Couleurs système */
@@ -19,8 +19,8 @@
 
     /* Couleurs de fond */
     --bg-primary: #ffffff;
-    --bg-secondary: #f8fafc;
-    --bg-dark: #0f172a;
+    --bg-secondary: #fdf4f8;
+    --bg-dark: #1e0f29;
     --bg-card: #ffffff;
 
     /* Texte */
@@ -270,7 +270,7 @@ body {
 
 .hero {
     padding: var(--spacing-2xl) 0;
-    background: linear-gradient(135deg, #f8fafc 0%, #e0e7ff 100%);
+    background: linear-gradient(135deg, #fef3f9 0%, #f3e8ff 100%);
     position: relative;
     overflow: hidden;
 }
@@ -282,7 +282,7 @@ body {
     right: -10%;
     width: 600px;
     height: 600px;
-    background: radial-gradient(circle, rgba(99, 102, 241, 0.1) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(236, 72, 153, 0.12) 0%, transparent 70%);
     border-radius: 50%;
 }
 
