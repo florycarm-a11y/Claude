@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-05T09:55:35.990Z",
+  "updated": "2026-09-05T19:53:23.276Z",
   "source": "DefiLlama",
-  "totalTVL": 588739220705.9475,
+  "totalTVL": 594772265549.3552,
   "topProtocols": [
     {
       "name": "Binance CEX",
       "symbol": "BNB",
-      "tvl": 168209311955.74673,
-      "change_1d": -0.46157078567432563,
-      "change_7d": -2.452598135304072,
+      "tvl": 170456804606.06482,
+      "change_1d": 2.037346692288594,
+      "change_7d": -1.756157252493452,
       "category": "CEX",
       "chains": [
         "Ethereum",
@@ -23,9 +23,9 @@
     {
       "name": "OKX",
       "symbol": "OKB",
-      "tvl": 30320068212.55818,
-      "change_1d": 0.19353965876564416,
-      "change_7d": 2.4136338040320595,
+      "tvl": 30481054845.03566,
+      "change_1d": 1.8618135483387022,
+      "change_7d": 2.302062016645351,
       "category": "CEX",
       "chains": [
         "Ethereum",
@@ -40,9 +40,9 @@
     {
       "name": "Lido",
       "symbol": "LDO",
-      "tvl": 23810598767.501827,
-      "change_1d": -2.192841565110271,
-      "change_7d": 1.4753532208102342,
+      "tvl": 23896422627.836357,
+      "change_1d": 0.47914968448388606,
+      "change_7d": 1.1754500456580388,
       "category": "Liquid Staking",
       "chains": [
         "Ethereum",
@@ -57,9 +57,9 @@
     {
       "name": "Bitfinex",
       "symbol": "-",
-      "tvl": 19074649397.243103,
-      "change_1d": -1.1816020676415775,
-      "change_7d": 0.3149207354155408,
+      "tvl": 19119301748.251316,
+      "change_1d": -0.03679507442281249,
+      "change_7d": 0.375314947465057,
       "category": "CEX",
       "chains": [
         "Bitcoin",
@@ -74,9 +74,9 @@
     {
       "name": "Aave V3",
       "symbol": "AAVE",
-      "tvl": 17397825915.39,
-      "change_1d": -1.908457999435683,
-      "change_7d": 1.8526857523191325,
+      "tvl": 17551540074.64669,
+      "change_1d": 1.3390230025373029,
+      "change_7d": 2.081448306517842,
       "category": "Lending",
       "chains": [
         "Ethereum",
@@ -91,16 +91,16 @@
     {
       "name": "Bybit",
       "symbol": "-",
-      "tvl": 14597605886.218258,
-      "change_1d": -0.806113262564125,
-      "change_7d": -8.527791325723868,
+      "tvl": 16165523143.178125,
+      "change_1d": 0.7998816545356391,
+      "change_7d": 0.678255445172482,
       "category": "CEX",
       "chains": [
         "Ethereum",
         "Bitcoin",
+        "Tron",
         "Solana",
-        "Binance",
-        "Mantle"
+        "Binance"
       ],
       "logo": "https://icons.llamao.fi/icons/protocols/bybit",
       "url": "https://www.bybit.com"
@@ -108,9 +108,9 @@
     {
       "name": "Robinhood",
       "symbol": "-",
-      "tvl": 14558779347.916485,
-      "change_1d": -1.4947280561186176,
-      "change_7d": 2.457614084096221,
+      "tvl": 14620335911.755829,
+      "change_1d": 0.7616912716059261,
+      "change_7d": 2.221616866651189,
       "category": "CEX",
       "chains": [
         "Bitcoin",
@@ -124,9 +124,9 @@
     {
       "name": "SSV Network",
       "symbol": "SSV",
-      "tvl": 12811822120.30431,
-      "change_1d": -2.218286604569286,
-      "change_7d": 4.651707653374132,
+      "tvl": 12864184504.862228,
+      "change_1d": 0.5418403839887276,
+      "change_7d": 4.267270940146233,
       "category": "Staking Pool",
       "chains": [
         "Ethereum"
@@ -137,9 +137,9 @@
     {
       "name": "Morpho Blue",
       "symbol": "MORPHO",
-      "tvl": 9724605424.893314,
-      "change_1d": -0.49963043930971196,
-      "change_7d": 2.4637869172726283,
+      "tvl": 9776748424.403963,
+      "change_1d": 1.2755060585744218,
+      "change_7d": 2.235325902409798,
       "category": "Lending",
       "chains": [
         "Ethereum",
@@ -154,9 +154,9 @@
     {
       "name": "WBTC",
       "symbol": "-",
-      "tvl": 9289136118.456982,
-      "change_1d": -1.3803127244634368,
-      "change_7d": 5.027714643772811,
+      "tvl": 9322414240.190998,
+      "change_1d": 0.6010846304851611,
+      "change_7d": 4.716570008433223,
       "category": "Bridge",
       "chains": [
         "Bitcoin"
@@ -167,9 +167,9 @@
     {
       "name": "Binance staked ETH",
       "symbol": "-",
-      "tvl": 9141533268.174553,
-      "change_1d": -2.1953642358925265,
-      "change_7d": 0.9225848214983188,
+      "tvl": 9181660984.143744,
+      "change_1d": 0.37085331348718853,
+      "change_7d": 0.5848884235466869,
       "category": "Liquid Staking",
       "chains": [
         "Ethereum",
@@ -181,9 +181,9 @@
     {
       "name": "Coinbase Bridge",
       "symbol": "-",
-      "tvl": 7982051842.467909,
-      "change_1d": -0.31655654210776163,
-      "change_7d": 1.933483139877623,
+      "tvl": 8013189842.672809,
+      "change_1d": 1.8319722461031347,
+      "change_7d": 1.5630552130399593,
       "category": "Bridge",
       "chains": [
         "Bitcoin",
@@ -198,16 +198,16 @@
     {
       "name": "LayerZero V2",
       "symbol": "ZRO",
-      "tvl": 7181359292.585632,
-      "change_1d": -0.08698444959854612,
-      "change_7d": -1.311126565949948,
+      "tvl": 7184068026.061557,
+      "change_1d": -0.15796457576207956,
+      "change_7d": -1.7922529838083676,
       "category": "Bridge",
       "chains": [
         "Ethereum",
         "ApeChain",
+        "Solana",
         "Arbitrum",
-        "Base",
-        "Solana"
+        "Base"
       ],
       "logo": "https://icons.llamao.fi/icons/protocols/layerzero-v2",
       "url": "https://layerzero.network/"
@@ -215,9 +215,9 @@
     {
       "name": "Gate",
       "symbol": "GT",
-      "tvl": 6895972469.494128,
-      "change_1d": -0.03391780546867551,
-      "change_7d": 3.5309094885824948,
+      "tvl": 7038978811.26916,
+      "change_1d": 3.006636664119398,
+      "change_7d": 4.504890933321363,
       "category": "CEX",
       "chains": [
         "Ethereum",
@@ -232,9 +232,9 @@
     {
       "name": "Hyperliquid Bridge",
       "symbol": "HYPE",
-      "tvl": 6616010978.664898,
-      "change_1d": 0.11470202858581047,
-      "change_7d": 1.2565865569737582,
+      "tvl": 6648899442.204128,
+      "change_1d": 0.638215607366206,
+      "change_7d": 1.701862264836464,
       "category": "Bridge",
       "chains": [
         "Hyperliquid L1",
@@ -246,9 +246,9 @@
     {
       "name": "EigenCloud",
       "symbol": "EIGEN",
-      "tvl": 6458398172.531301,
-      "change_1d": -2.1996513982608974,
-      "change_7d": 0.16244129691681053,
+      "tvl": 6489421621.137037,
+      "change_1d": 0.6020711848386355,
+      "change_7d": 0.010679717192687121,
       "category": "Restaking",
       "chains": [
         "Ethereum"
@@ -259,16 +259,16 @@
     {
       "name": "Bitget",
       "symbol": "-",
-      "tvl": 5743988899.31176,
-      "change_1d": 0.33817440718138414,
-      "change_7d": -2.3897146559324227,
+      "tvl": 6018918433.299179,
+      "change_1d": 1.0208137522525362,
+      "change_7d": 2.4653059525705316,
       "category": "CEX",
       "chains": [
         "Bitcoin",
         "Ethereum",
         "Solana",
         "Binance",
-        "Ripple"
+        "Tron"
       ],
       "logo": "https://icons.llamao.fi/icons/protocols/bitget",
       "url": "https://www.bitget.com"
@@ -276,9 +276,9 @@
     {
       "name": "Sky Lending",
       "symbol": "SKY",
-      "tvl": 5493783271.07588,
-      "change_1d": -0.3889744765096026,
-      "change_7d": -1.2011376525451851,
+      "tvl": 5520470034.512005,
+      "change_1d": 0.6696037996281063,
+      "change_7d": -0.26248002173258556,
       "category": "CDP",
       "chains": [
         "Ethereum"
@@ -289,9 +289,9 @@
     {
       "name": "Binance Bitcoin",
       "symbol": "-",
-      "tvl": 5437372386.059138,
-      "change_1d": -1.380312724463451,
-      "change_7d": 2.9321112580373807,
+      "tvl": 5456851650.639719,
+      "change_1d": 0.6010846304851327,
+      "change_7d": 2.554944633696593,
       "category": "Bridge",
       "chains": [
         "Bitcoin"
@@ -300,109 +300,112 @@
       "url": "https://www.binance.com/en/collateral-btokens"
     },
     {
-      "name": "Gemini",
-      "symbol": "-",
-      "tvl": 5305373714.479535,
-      "change_1d": -1.537530439549542,
-      "change_7d": 2.60392818834012,
+      "name": "MEXC",
+      "symbol": "MX",
+      "tvl": 5323875946.044533,
+      "change_1d": 0.7654344247529821,
+      "change_7d": 1.6713580015903489,
       "category": "CEX",
       "chains": [
+        "Ethereum",
         "Bitcoin",
-        "Ethereum"
+        "Solana",
+        "Binance",
+        "Tron"
       ],
-      "logo": "https://icons.llamao.fi/icons/protocols/gemini",
-      "url": "https://www.gemini.com"
+      "logo": "https://icons.llamao.fi/icons/protocols/mexc",
+      "url": "https://www.mexc.com"
     }
   ],
   "topChains": [
     {
       "name": "Ethereum",
       "gecko_id": "ethereum",
-      "tvl": 49140511308.68834,
+      "tvl": 49376103595.81959,
       "tokenSymbol": "ETH"
     },
     {
       "name": "Solana",
       "gecko_id": "solana",
-      "tvl": 5862625040.378384,
+      "tvl": 5915402919.947282,
       "tokenSymbol": "SOL"
     },
     {
       "name": "BSC",
       "gecko_id": "binancecoin",
-      "tvl": 5675718636.912973,
+      "tvl": 5867183402.891612,
       "tokenSymbol": "BNB"
     },
     {
       "name": "Base",
       "gecko_id": null,
-      "tvl": 5636606581.185598,
+      "tvl": 5671473705.429999,
       "tokenSymbol": null
     },
     {
       "name": "Tron",
       "gecko_id": "tron",
-      "tvl": 5416576841.357555,
+      "tvl": 5439741677.790548,
       "tokenSymbol": "TRON"
     },
     {
       "name": "Bitcoin",
       "gecko_id": "bitcoin",
-      "tvl": 4322919835.908578,
+      "tvl": 4338732066.406977,
       "tokenSymbol": "BTC"
     },
     {
       "name": "Hyperliquid L1",
       "gecko_id": "hyperliquid",
-      "tvl": 1504449934.4747338,
+      "tvl": 1520925939.7150695,
       "tokenSymbol": "HYPE"
     },
     {
       "name": "Arbitrum",
       "gecko_id": "arbitrum",
-      "tvl": 1404110124.6371417,
+      "tvl": 1411078294.869738,
       "tokenSymbol": "ARB"
     },
     {
       "name": "Monad",
       "gecko_id": "monad",
-      "tvl": 944787563.9987955,
+      "tvl": 987795364.0106757,
       "tokenSymbol": "MON"
     },
     {
       "name": "Robinhood Chain",
       "gecko_id": null,
-      "tvl": 878485268.5902964,
+      "tvl": 904541541.1995153,
       "tokenSymbol": null
     },
     {
       "name": "Polygon",
       "gecko_id": "polygon-ecosystem-token",
-      "tvl": 805771423.9547911,
+      "tvl": 816046410.629126,
       "tokenSymbol": "POL"
     },
     {
       "name": "Plasma",
       "gecko_id": "plasma",
-      "tvl": 589411742.9606711,
+      "tvl": 580050196.0004349,
       "tokenSymbol": "XPL"
     },
     {
       "name": "Avalanche",
       "gecko_id": "avalanche-2",
-      "tvl": 488206052.0874158,
+      "tvl": 499355531.4827509,
       "tokenSymbol": "AVAX"
     },
     {
       "name": "Sui",
       "gecko_id": "sui",
-      "tvl": 466637912.2640623,
+      "tvl": 472676006.353531,
       "tokenSymbol": "SUI"
     },
     {
       "name": "OP Mainnet",
       "gecko_id": "optimism",
-      "tvl": 437081600.6136119,
+      "tvl": 438640725.2910255,
       "tokenSymbol": "OP"
     }
   ],
@@ -412,7 +415,7 @@
       "project": "sky-lending",
       "chain": "Ethereum",
       "symbol": "SUSDS",
-      "tvl": 4656391524,
+      "tvl": 4656968015,
       "apy": 3.6,
       "apyBase": 3.6,
       "apyReward": null,
@@ -423,7 +426,7 @@
       "project": "maple",
       "chain": "Ethereum",
       "symbol": "USDC",
-      "tvl": 2715492836,
+      "tvl": 2723731430,
       "apy": 5.02,
       "apyBase": 5.02,
       "apyReward": null,
@@ -435,8 +438,8 @@
       "chain": "BSC",
       "symbol": "USYC",
       "tvl": 2580094161,
-      "apy": 3.19,
-      "apyBase": 3.19,
+      "apy": 3.08,
+      "apyBase": 3.08,
       "apyReward": null,
       "stablecoin": true
     },
@@ -445,9 +448,9 @@
       "project": "ethena-usde",
       "chain": "Ethereum",
       "symbol": "SUSDE",
-      "tvl": 1419043089,
-      "apy": 4.49,
-      "apyBase": 4.49,
+      "tvl": 1410711789,
+      "apy": 4.51,
+      "apyBase": 4.51,
       "apyReward": null,
       "stablecoin": true
     },
@@ -456,7 +459,7 @@
       "project": "ondo-yield-assets",
       "chain": "Ethereum",
       "symbol": "USDY",
-      "tvl": 1161352793,
+      "tvl": 1162353279,
       "apy": 3.56,
       "apyBase": 3.56,
       "apyReward": null,
@@ -467,7 +470,7 @@
       "project": "maple",
       "chain": "Ethereum",
       "symbol": "USDT",
-      "tvl": 1003886181,
+      "tvl": 1005582331,
       "apy": 4.83,
       "apyBase": 4.83,
       "apyReward": null,
@@ -500,7 +503,7 @@
       "project": "centrifuge-protocol",
       "chain": "Ethereum",
       "symbol": "USDS",
-      "tvl": 799330654,
+      "tvl": 799448804,
       "apy": 3.25,
       "apyBase": 3.25,
       "apyReward": null,
@@ -522,9 +525,9 @@
       "project": "invesco-ustb",
       "chain": "Ethereum",
       "symbol": "USTB",
-      "tvl": 580071164,
-      "apy": 3.52,
-      "apyBase": 3.52,
+      "tvl": 579871201,
+      "apy": 3.4,
+      "apyBase": 3.4,
       "apyReward": null,
       "stablecoin": true
     },
@@ -544,10 +547,10 @@
       "project": "sparklend",
       "chain": "Ethereum",
       "symbol": "USDS",
-      "tvl": 562748752,
-      "apy": 4.06,
+      "tvl": 562827092,
+      "apy": 4.29,
       "apyBase": null,
-      "apyReward": 4.06,
+      "apyReward": 4.29,
       "stablecoin": true
     },
     {
@@ -566,16 +569,16 @@
       "project": "usual-usd0",
       "chain": "Ethereum",
       "symbol": "BUSD0",
-      "tvl": 506464370,
-      "apy": 3.48,
+      "tvl": 506652104,
+      "apy": 3.53,
       "apyBase": null,
-      "apyReward": 3.48,
+      "apyReward": 3.53,
       "stablecoin": true
     }
   ],
   "summary": {
-    "total_protocols": 8187,
+    "total_protocols": 8190,
     "total_chains": 466,
-    "total_tvl_formatted": "588.74B"
+    "total_tvl_formatted": "594.77B"
   }
 }
