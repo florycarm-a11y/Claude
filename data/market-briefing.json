@@ -1,44 +1,46 @@
 {
-  "titre": "Crypto proche de la surchauffe — tech en correction et pétrole en pause",
-  "date": "2026-08-25",
-  "resume_executif": "Régime tendance haussière modérée caractérisé par la poursuite du rallye crypto (BTC +4,3%, Fear & Greed 74/100) face à une tech en correction (NVDA -2,91%, TSLA -3,83%). Le pétrole corrige (-1,80%) et le Treasury 10Y remonte (+0,05 point à 4,74%), créant un environnement de plus en plus complexe pour les actifs à risque.",
+  "titre": "Correction tech sévère — Tesla et big tech sous pression, crypto en pause",
+  "date": "2026-09-05",
+  "resume_executif": "Les marchés affichent une configuration <strong>fragmentée et à la baisse sur le secteur tech</strong> : Tesla s'effondre de 5.92%, Apple chute de 2.51% et Microsoft cède 2.04%, tandis que le Nasdaq 100 (QQQ) résiste légèrement (+0,18%). Le crypto corrige (BTC -1,71%, market cap -3,16%) mais le Fear & Greed reste à 73/100 (Greed). Le dollar repart à la hausse (DXY 118,75) et l'or corrige légèrement (GLD -0,84%).",
   "sections": [
     {
-      "titre": "Contexte & régime de marché",
-      "contenu": "Le régime est qualifié de <strong>tendance haussière modérée</strong> (consensus 62%, amplitude moyenne 1.88%) avec 10 actifs en hausse et 6 en baisse. Le <strong>crypto continue de surperformer massivement</strong> (BTC +4,3%, SOL +7,6%) face aux <strong>indices actions mitigés</strong> (QQQ -1,00%, DIA +0,27%). Le pétrole corrige (-1,80%) tandis que l'or progresse (+0,79%).",
+      "titre": "Contexte & Régime de marché",
+      "contenu": "<p>Le régime de marché est <strong>baissier sur le secteur tech</strong>, mitigé sur les indices larges. Le <strong>SPY (proxy S&P 500) recule de 0.39%</strong> à 770.19 $, le <strong>Dow Jones (DIA) cède 0.53%</strong> à 534.08 $, tandis que le <strong>Nasdaq 100 (QQQ) résiste légèrement (+0.18%)</strong> à 718.96 $ (Finnhub). Cette divergence reflète une segmentation au sein même du secteur technologique, où Nvidia (+0,84%) résiste mais Tesla, Apple et Microsoft corrigent fortement.</p>",
       "tendance": "mixte"
     },
     {
       "titre": "Actions & Indices",
-      "contenu": "Les indices US affichent une <strong>configuration mitigée</strong> : <strong>S&P 500 -0,29%</strong>, <strong>Nasdaq 100 -1,00%</strong>, <strong>Dow Jones +0,27%</strong> (Finnhub). La tech sous-performe avec <strong>Nvidia -2,91%</strong> et <strong>Tesla -3,83%</strong>, tandis que <strong>Microsoft (+0,84%)</strong> et <strong>Alphabet (+0,94%)</strong> résistent. <strong>Apple est stable (+0,32%)</strong>. En Europe, le <strong>DAX cède -0,10%</strong> (Twelve Data, clôture 24 août).",
+      "contenu": "<p>Le secteur tech affiche une <strong>bifurcation marquée et à la baisse</strong> : <strong>Tesla s'effondre de 5.92%</strong> à 354.08 $, <strong>Apple chute de 2.51%</strong> à 319.97 $, <strong>Microsoft cède 2.04%</strong> à 499.70 $ et <strong>Alphabet recule de 1.17%</strong> à 338.46 $ (Finnhub). Seul <strong>Nvidia résiste avec +0.84%</strong> à 230.36 $. En Europe, le <strong>DAX est quasi-stable (-0.09%)</strong> à 46.869 (Twelve Data), montrant une meilleure résilience.</p>",
       "tendance": "baissier"
     },
     {
       "titre": "Crypto & DeFi",
-      "contenu": "Le marché crypto reste en <strong>forte hausse</strong> : <strong>BTC +4,3%</strong> à 80 641 $, <strong>ETH +2,1%</strong> à 2 502 $, <strong>SOL +7,6%</strong> à 101 $ (CoinGecko). Le <strong>Fear & Greed Index atteint 74/100 (Greed)</strong>, soit <strong>+12 points depuis le 21 août</strong> et +33 points sur 7 jours. La dominance BTC progresse à <strong>59,3%</strong>. La TVL DeFi atteint <strong>582,8 Md$</strong> (+6,6% vs le 21 août), avec une hausse généralisée des protocoles. Les frais BTC baissent à <strong>1 sat/vB</strong> (Mempool), signalant une efficacité réseau améliorée.",
-      "tendance": "haussier"
+      "contenu": "<p>Le marché crypto connaît une <strong>correction technique</strong> après un rallye de 30 jours spectaculaire. <strong>Bitcoin cède 1.7%</strong> à 79,649 $, <strong>Ethereum recule de 2.4%</strong> à 2,460 $, et la capitalisation totale perd 3,16% (CoinGecko). Le <strong>Fear & Greed Index à 73/100</strong> (Greed) reste élevé malgré une légère baisse, suggérant que le sentiment des investisseurs reste globalement positif. La <strong>TVL DeFi s'établit à 588.7 Mds $</strong> (DefiLlama), stable malgré la correction.</p>",
+      "tendance": "neutre"
     },
     {
       "titre": "Matières premières & Forex",
-      "contenu": "L'<strong>or progresse de 0,79%</strong> (ETF GLD, Finnhub) tandis que le <strong>pétrole (ETF USO) corrige de -1,80%</strong>, marquant une pause dans sa séquence haussière. Le dollar se déprécie avec le <strong>DXY à 118,06</strong> (-0,19, FRED) et l'<strong>EUR/USD à 1,1659</strong> (Alpha Vantage) / <strong>1,17</strong> (fixing ECB). Les données spot métaux/énergie restent <strong>indisponibles</strong> (metals.dev).",
+      "contenu": "<p>L'<strong>or corrige légèrement</strong> : l'ETF GLD perd 0.84% à 406.77 $ (Finnhub). Le <strong>pétrole (USO) est quasi-stable</strong> à 141.96 $ (-0.09%). Sur le front des devises, l'<strong>EUR/USD se maintient à 1.1622</strong> (Alpha Vantage) malgré la <strong>force du dollar index (DXY) à 118,75</strong> (+0,39 point, FRED). Le <strong>USD/JPY recule à 156.22</strong>, allégeant la pression sur la BoJ. Le <strong>GBP/USD est à 1.3518</strong>.</p>",
       "tendance": "mixte"
     }
   ],
   "sentiment_global": "mixte",
   "vigilance": [
-    "Crypto : Fear & Greed à 74/100 approche la zone de surchauffe — surveiller BTC 82 000 $ comme seuil critique.",
-    "Tech : NVDA et TSLA sous-performent fortement — risque de rotation sectorielle vers value.",
-    "Taux : Treasury 10Y à 4,74% (+0,05 point) — une remontée au-dessus de 4,80% pénaliserait les évaluations tech et crypto."
+    "Tesla à 354.08 $ (-5.92%) — surveiller un rebond ou une extension de la correction",
+    "Dollar Index (DXY) à 118,75 — force du dollar pouvant peser sur les bénéfices des multinationales",
+    "Fear & Greed Index à 73/100 — zone Greed, risque de surconfiance malgré la correction",
+    "Tensions Ormuz : trafic sous les 20 navires/jour — risque de choc énergétique"
   ],
   "tags": [
-    "crypto-rallye",
-    "fear-greed-greed",
-    "tech-correction",
-    "petrole-correction",
-    "taux-longs",
-    "dollar-faible"
+    "tech",
+    "correction",
+    "tesla",
+    "crypto",
+    "fed",
+    "dollar",
+    "ormuz"
   ],
-  "updated": "2026-08-25T18:13:00Z",
+  "updated": "2026-09-05T18:28:24Z",
   "source": "Kimi + multi-sources",
   "sources_used": [
     "news",

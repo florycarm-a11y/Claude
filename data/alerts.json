@@ -1,159 +1,66 @@
 {
-  "updated": "2026-08-25T18:13:00Z",
+  "updated": "2026-09-05T18:28:24Z",
   "alertes": [
     {
-      "id": "alert-2026-08-25-001",
-      "titre": "Bitcoin (BTC) : +25.90% sur 7 jours",
-      "texte": "Bitcoin (BTC) : +25.90% sur 7 jours",
-      "categorie": "crypto",
-      "severite": "urgent",
-      "impact": "haussier",
-      "horodatage": "2026-08-25T18:13:00Z",
-      "donnees": {
-        "symbole": "BTC",
-        "nom": "Bitcoin",
-        "prix": 80641,
-        "variation_7d": 25.9
-      }
-    },
-    {
-      "id": "alert-2026-08-25-002",
-      "titre": "Ethereum (ETH) : +32.40% sur 7 jours",
-      "texte": "Ethereum (ETH) : +32.40% sur 7 jours",
-      "categorie": "crypto",
-      "severite": "urgent",
-      "impact": "haussier",
-      "horodatage": "2026-08-25T18:13:00Z",
-      "donnees": {
-        "symbole": "ETH",
-        "nom": "Ethereum",
-        "prix": 2502.11,
-        "variation_7d": 32.4
-      }
-    },
-    {
-      "id": "alert-2026-08-25-003",
-      "titre": "XRP (XRP) : +53.10% sur 7 jours",
-      "texte": "XRP (XRP) : +53.10% sur 7 jours",
-      "categorie": "crypto",
-      "severite": "urgent",
-      "impact": "haussier",
-      "horodatage": "2026-08-25T18:13:00Z",
-      "donnees": {
-        "symbole": "XRP",
-        "nom": "XRP",
-        "prix": 1.51,
-        "variation_7d": 53.1
-      }
-    },
-    {
-      "id": "alert-2026-08-25-004",
-      "titre": "Solana (SOL) : +7.58% sur 24h (prix: $101)",
-      "texte": "Solana (SOL) : +7.58% sur 24h (prix: $101)",
-      "categorie": "crypto",
-      "severite": "attention",
-      "impact": "haussier",
-      "horodatage": "2026-08-25T18:13:00Z",
-      "donnees": {
-        "symbole": "SOL",
-        "nom": "Solana",
-        "prix": 101.26,
-        "variation_24h": 7.58
-      }
-    },
-    {
-      "id": "alert-2026-08-25-005",
-      "titre": "Solana (SOL) : +34.60% sur 7 jours",
-      "texte": "Solana (SOL) : +34.60% sur 7 jours",
-      "categorie": "crypto",
-      "severite": "urgent",
-      "impact": "haussier",
-      "horodatage": "2026-08-25T18:13:00Z",
-      "donnees": {
-        "symbole": "SOL",
-        "nom": "Solana",
-        "prix": 101.26,
-        "variation_7d": 34.6
-      }
-    },
-    {
-      "id": "alert-2026-08-25-006",
-      "titre": "Dogecoin (DOGE) : +32.80% sur 7 jours",
-      "texte": "Dogecoin (DOGE) : +32.80% sur 7 jours",
-      "categorie": "crypto",
-      "severite": "urgent",
-      "impact": "haussier",
-      "horodatage": "2026-08-25T18:13:00Z",
-      "donnees": {
-        "symbole": "DOGE",
-        "nom": "Dogecoin",
-        "prix": 0.092294,
-        "variation_7d": 32.8
-      }
-    },
-    {
-      "id": "alert-2026-08-25-007",
-      "titre": "Cardano (ADA) : +30.90% sur 7 jours",
-      "texte": "Cardano (ADA) : +30.90% sur 7 jours",
-      "categorie": "crypto",
-      "severite": "urgent",
-      "impact": "haussier",
-      "horodatage": "2026-08-25T18:13:00Z",
-      "donnees": {
-        "symbole": "ADA",
-        "nom": "Cardano",
-        "prix": 0.225251,
-        "variation_7d": 30.9
-      }
-    },
-    {
-      "id": "alert-2026-08-25-008",
-      "titre": "Nvidia (NVDA) : -2.91% (prix: $208.48)",
-      "texte": "Nvidia (NVDA) : -2.91% (prix: $208.48)",
-      "categorie": "marches",
-      "severite": "attention",
-      "impact": "baissier",
-      "horodatage": "2026-08-25T18:13:00Z",
-      "donnees": {
-        "symbole": "NVDA",
-        "nom": "Nvidia",
-        "prix": 208.48,
-        "variation": -2.91
-      }
-    },
-    {
-      "id": "alert-2026-08-25-009",
-      "titre": "Tesla (TSLA) : -3.83% (prix: $348.95)",
-      "texte": "Tesla (TSLA) : -3.83% (prix: $348.95)",
+      "id": "alert-2026-09-05-001",
+      "titre": "Tesla (TSLA) : -5.92%, perte de 22.29 $",
+      "texte": "Tesla s'effondre de 5.92% à 354.08 $, sous-performant largement le marché. Cette correction s'inscrit dans une tendance de prises de bénéfices sur les valeurs de croissance les plus chères.",
       "categorie": "marches",
       "severite": "urgent",
       "impact": "baissier",
-      "horodatage": "2026-08-25T18:13:00Z",
+      "horodatage": "2026-09-05T18:28:24Z",
       "donnees": {
         "symbole": "TSLA",
-        "nom": "Tesla",
-        "prix": 348.95,
-        "variation": -3.83
+        "prix": 354.08,
+        "variation": -5.92
       }
     },
     {
-      "id": "alert-2026-08-25-010",
-      "titre": "Fear & Greed : variation de +33 pts sur 7 jours (actuellement 74)",
-      "texte": "Fear & Greed : variation de +33 pts sur 7 jours (actuellement 74)",
+      "id": "alert-2026-09-05-002",
+      "titre": "Apple (AAPL) : -2.51%, retour sous 320 $",
+      "texte": "Apple chute de 2.51% à 319.97 $, dans le sillage d'une correction sectorielle tech. Microsoft et Alphabet subissent des pertes similaires.",
+      "categorie": "marches",
+      "severite": "attention",
+      "impact": "baissier",
+      "horodatage": "2026-09-05T18:28:24Z",
+      "donnees": {
+        "symbole": "AAPL",
+        "prix": 319.97,
+        "variation": -2.51
+      }
+    },
+    {
+      "id": "alert-2026-09-05-003",
+      "titre": "Cardano (ADA) : -3.5% sur 24h",
+      "texte": "Cardano recule de 3.5% sur 24h à 0.2134 $, sous-performant le marché crypto. La baisse s'inscrit dans une correction généralisée des altcoins.",
+      "categorie": "crypto",
+      "severite": "attention",
+      "impact": "baissier",
+      "horodatage": "2026-09-05T18:28:24Z",
+      "donnees": {
+        "symbole": "ADA",
+        "prix": 0.213406,
+        "variation_24h": -3.54
+      }
+    },
+    {
+      "id": "alert-2026-09-05-004",
+      "titre": "Fear & Greed : +5 pts sur 7 jours (actuellement 73)",
+      "texte": "L'indice de sentiment crypto gagne 5 points en une semaine, passant à 73/100 (Greed). Malgré la correction des prix, le sentiment reste dans la zone Greed, ce qui pourrait indiquer une surconfiance des investisseurs.",
       "categorie": "macro",
       "severite": "info",
-      "impact": "haussier",
-      "horodatage": "2026-08-25T18:13:00Z",
+      "impact": "neutre",
+      "horodatage": "2026-09-05T18:28:24Z",
       "donnees": {
-        "score": 74,
+        "score": 73,
         "label": "Greed",
-        "variation_7j": 33
+        "variation_7j": 5
       }
     }
   ],
   "stats": {
-    "total": 10,
-    "urgent": 7,
+    "total": 4,
+    "urgent": 1,
     "attention": 2,
     "info": 1
   },

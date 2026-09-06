@@ -1,75 +1,75 @@
 {
-  "titre": "Expansion modérée, taux longs sous pression et crypto en phase avancée",
-  "phase_cycle": "expansion",
-  "politique_monetaire": "restrictive",
-  "tendance_inflation": "acceleration",
-  "score_risque": 5,
-  "analyse": "## Contexte macroéconomique\n\nL'économie américaine reste en phase d'<strong>expansion modérée</strong>. Le CPI s'établit à <strong>3.54% en glissement annuel</strong> (FRED, juillet 2026), confirmant une <strong>décélération inflationniste</strong> par rapport au pic précédent (3,73%). Le taux de chômage se maintient à <strong>4.1%</strong>. Le spread 10Y-2Y à <strong>0.46%</strong> reste positif mais se stabilise après un resserrement. Le billet vert continue de se déprécier (DXY <strong>118,06</strong>, -0,19, FRED) avec l'<strong>EUR/USD à 1,17</strong> (ECB Data).\n\n## Enjeux clés\n\n- <strong>Politique monétaire :</strong> La Fed maintient son taux directeur à <strong>3,63%</strong> (FRED). Le Treasury 10Y remonte légèrement à <strong>4,74%</strong> (+0,05 point), suggérant une réévaluation des anticipations d'assouplissement.\n- <strong>Inflation :</strong> La dynamique des prix s'atténue (3,54% YoY) mais reste au-dessus de la cible. Le pétrole corrige aujourd'hui (-1,80%), ce qui allège la pression sur les prix à la pompe.\n- <strong>Liquidité :</strong> Le bilan Fed a <strong>contracté de 14,3 Mrd $</strong> (FRED), signalant un resserrement technique temporaire. La masse monétaire M2 reste stable.\n\n## Risques & Opportunités\n\n- ⚠️ <strong>Risque tech :</strong> La sous-performance de Nvidia (-2,91%) et Tesla (-3,83%) pourrait signaler une rotation sectorielle ou une prise de bénéfices sur les valeurs de croissance.\n- ⚠️ <strong>Risque crypto :</strong> Le Fear & Greed à 74/100 approche la zone de surchauffe. Un retracement est historiquement probable si BTC dépasse 82 000 $.\n- ⚠️ <strong>Risque obligations :</strong> La remontée du Treasury 10Y à 4,74% pourrait peser sur les évaluations tech si elle se confirme.\n- ✓ <strong>Opportunité crypto :</strong> BTC à 80 641 $ avec une dominance à 59,3% — le mouvement est fondé et accompagné d'une expansion DeFi (+6,6% de TVL supplémentaire).\n- ✓ <strong>Opportunité or :</strong> L'or progresse à +0,79% (GLD), bénéficiant de la faiblesse du dollar et de la prime de risque.\n\n## Perspectives\n\nScénario central : <strong>expansion modérée avec Fed patiente</strong>. L'assouplissement monétaire anticipé pour le T4 2026 continue de soutenir les actifs à risque. Risque principal : une remontée des taux longs (Treasury >4,80%) qui pénaliserait tech et crypto. Les seuils de vigilance sont le Treasury 10Y (seuil 4,80%) et le Fear & Greed (seuil 80).",
+  "titre": "Tech en correction, Fed en pause — le dollar repart à la hausse",
+  "phase_cycle": "transition",
+  "politique_monetaire": "neutre",
+  "tendance_inflation": "stabilisation",
+  "score_risque": 6,
+  "analyse": "<h2>Contexte macroéconomique</h2>\n<p>La Fed maintient ses taux directeurs à <strong>3,63 %</strong> (FRED, DFF), dans une pause technique qui s'éternise. L'inflation CPI affiche <strong>3,54 % en glissement annuel</strong> (juillet 2026), toujours au-dessus de la cible de 2 %. Le chômage reste stable à <strong>4,1 %</strong> (août 2026), signe d'une résilience du marché du travail américain.</p>\n\n<h2>Enjeux clés</h2>\n<ul>\n<li><strong>Politique monétaire</strong> : La BCE maintient son taux directeur à <strong>2,40 %</strong> (ECB Data), tandis que la Fed reste à 3,63 %. Cette divergence a poussé l'<strong>EUR/USD à 1,1628</strong> (ECB fixing), mais le <strong>dollar index (DXY) repart à la hausse à 118,75</strong> (+0,39 point, FRED), limitant l'appréciation de l'euro.</li>\n<li><strong>Courbe des taux</strong> : Le <strong>Treasury 10Y est stable à 4,77 %</strong> (-0,02 point, FRED), et le <strong>spread 10Y-2Y se maintient à 0,41 %</strong> (-0,02 point). L'aplatissement persistant de la courbe reste un signal de vigilance.</li>\n<li><strong>Liquidité</strong> : Le <strong>bilan Fed a légèrement augmenté de 6,3 Mds $</strong> (FRED, WALCL), à 6 737 Mds $, un mouvement technique qui ne change pas la trajectoire globale de normalisation. La masse monétaire M2 reste à <strong>23 218 Mds $</strong>. Le <strong>taux hypothécaire 30 ans remonte à 6,71 %</strong> (+0,05 point), pesant sur l'immobilier.</li>\n</ul>\n\n<h2>Risques & Opportunités</h2>\n<ul>\n<li><strong>Risque 1 — Correction tech prolongée</strong> : Tesla -5,92%, Apple -2,51%, Microsoft -2,04%. Une contagion au reste du marché est possible si les résultats déçoivent.</li>\n<li><strong>Risque 2 — Choc énergétique</strong> : Tensions Ormuz persistantes. Un blocage durable provoquerait un spike pétrolier et forcerait la Fed à réagir.</li>\n<li><strong>Risque 3 — Dollar fort</strong> : DXY à 118,75. Un dollar trop fort pèse sur les bénéfices des multinationales américaines et sur les économies émergentes.</li>\n<li><strong>Opportunité 1 — Rotation vers l'Europe</strong> : Le DAX résiste (-0,09%) et l'EUR/USD reste élevé, favorisant les valuations européennes.</li>\n<li><strong>Opportunité 2 — Accumulation crypto</strong> : La correction BTC (-1,71%) dans un contexte de Fear & Greed encore positif (73) pourrait offrir des points d'entrée.</li>\n</ul>\n\n<h2>Perspectives</h2>\n<p>Trois scénarios se dessinent : (1) <strong>consolidation</strong> — la correction tech reste circonscrite au secteur growth, le reste du marché résiste, et la Fed maintient son statu quo ; (2) <strong>contagion</strong> — si Tesla et Apple entraînent le SPY sous 760 $, un mouvement de risk-off généralisé pourrait s'enclencher ; (3) <strong>rebond tech</strong> — si les résultats de Nvidia et autres big tech rassurent, le capital pourrait revenir rapidement sur le secteur.</p>",
   "indicateurs_cles": [
     {
-      "nom": "Inflation (CPI)",
-      "valeur": "332.813index (+3.54% a/a)",
-      "signal": "haussier",
-      "commentaire": "Dernière mise à jour : 2026-07-01"
+      "nom": "CPI",
+      "valeur": "3,54 % YoY",
+      "signal": "neutre",
+      "commentaire": "Au-dessus de la cible Fed mais stable"
     },
     {
-      "nom": "Taux directeur (Fed Funds)",
-      "valeur": "3.63% (+0.00)",
+      "nom": "Fed Funds",
+      "valeur": "3,63 %",
       "signal": "neutre",
-      "commentaire": "Dernière mise à jour : 2026-08-21"
-    },
-    {
-      "nom": "PIB (trimestriel)",
-      "valeur": "32475.21Mrd $ (+609.49)",
-      "signal": "neutre",
-      "commentaire": "Dernière mise à jour : 2026-04-01"
+      "commentaire": "Pause technique prolongée"
     },
     {
       "nom": "Chômage",
-      "valeur": "4.1% (-0.10)",
-      "signal": "baissier",
-      "commentaire": "Dernière mise à jour : 2026-07-01"
-    },
-    {
-      "nom": "Treasury 10 ans",
-      "valeur": "4.74% (+0.05)",
-      "signal": "baissier",
-      "commentaire": "Dernière mise à jour : 2026-08-21"
-    },
-    {
-      "nom": "Dollar Index (broad)",
-      "valeur": "118.0628index (-0.19)",
+      "valeur": "4,1 %",
       "signal": "neutre",
-      "commentaire": "Dernière mise à jour : 2026-08-21"
+      "commentaire": "Stable, marché du travail résilient"
+    },
+    {
+      "nom": "Treasury 10Y",
+      "valeur": "4,77 %",
+      "signal": "neutre",
+      "commentaire": "Stable, pas de panique obligataire"
     },
     {
       "nom": "Spread 10Y-2Y",
-      "valeur": "0.46% (-0.04)",
-      "signal": "neutre",
-      "commentaire": "Dernière mise à jour : 2026-08-24"
+      "valeur": "0,41 %",
+      "signal": "baissier",
+      "commentaire": "Aplatissement persistant, vigilance"
     },
     {
-      "nom": "Masse monétaire M2",
-      "valeur": "23155.2Mrd $ (+99.60)",
+      "nom": "Bilan Fed",
+      "valeur": "6 737 Mds $",
       "signal": "neutre",
-      "commentaire": "Dernière mise à jour : 2026-06-01"
+      "commentaire": "Légère hausse technique (+6,3 Mds $)"
     },
     {
-      "nom": "Bilan Fed (actifs)",
-      "valeur": "6745699M $ (-14256.00)",
+      "nom": "Taux BCE",
+      "valeur": "2,40 %",
+      "signal": "haussier",
+      "commentaire": "Divergence accommodante vs Fed"
+    },
+    {
+      "nom": "EUR/USD",
+      "valeur": "1,1628",
       "signal": "neutre",
-      "commentaire": "Dernière mise à jour : 2026-08-19"
+      "commentaire": "Stable malgré la force du dollar"
+    },
+    {
+      "nom": "Dollar Index (DXY)",
+      "valeur": "118,75",
+      "signal": "baissier",
+      "commentaire": "Reprise à la hausse, +0,39 point"
     },
     {
       "nom": "Taux hypothécaire 30 ans",
-      "valeur": "6.65% (-0.02)",
-      "signal": "neutre",
-      "commentaire": "Dernière mise à jour : 2026-08-20"
+      "valeur": "6,71 %",
+      "signal": "baissier",
+      "commentaire": "Hausse de 0,05 point, pression immobilier"
     }
   ],
-  "perspectives": "Scénario central : Fed patiente avec assouplissement anticipé T4 2026. Risque : remontée des taux longs si les données macro surprennent à la hausse. Opportunité : crypto et or si dollar reste faible.",
-  "updated": "2026-08-25T18:13:00Z",
-  "source": "Kimi + FRED + BCE + commodités",
+  "perspectives": "Le scénario central reste un statu quo monétaire américain jusqu'à la fin 2026, avec une Fed qui privilégie la stabilité face à l'incertitude géopolitique et sectorielle. La correction tech pourrait s'étendre si les résultats déçoivent, mais le fondamental macro reste solide (chômage bas, croissance positive). Le principal catalyseur de basculement reste un choc énergétique majeur (Ormuz).",
+  "updated": "2026-09-05T18:28:24Z",
+  "source": "Kimi + FRED + BCE + ECB Data",
   "indicators_count": 10,
   "mode": "consolidated"
 }
