@@ -1,16 +1,22 @@
 {
-  "updated": "2026-09-06T19:57:23.023Z",
+  "updated": "2026-09-07T11:29:14.706Z",
   "source": "Alternative.me Crypto Fear & Greed Index",
   "current": {
-    "value": 73,
+    "value": 71,
     "label": "Greed",
-    "timestamp": 1788652800
+    "timestamp": 1788739200
   },
   "changes": {
-    "week": 4,
-    "month": 44
+    "week": 9,
+    "month": 41
   },
   "history": [
+    {
+      "value": 71,
+      "label": "Greed",
+      "timestamp": 1788739200,
+      "date": "2026-09-07"
+    },
     {
       "value": 73,
       "label": "Greed",
@@ -190,12 +196,6 @@
       "label": "Fear",
       "timestamp": 1786147200,
       "date": "2026-08-08"
-    },
-    {
-      "value": 29,
-      "label": "Fear",
-      "timestamp": 1786060800,
-      "date": "2026-08-07"
     }
   ]
 }

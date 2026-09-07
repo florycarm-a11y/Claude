@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T19:57:58.769Z",
+  "updated": "2026-09-07T11:29:52.464Z",
   "source": "Twelve Data",
   "indices": [
     {
@@ -22,21 +22,21 @@
     {
       "symbol": "EUR/GBP",
       "name": "EUR/GBP",
-      "rate": 0.85966,
-      "change_pct": 0.017451804,
-      "datetime": "2026-09-06"
+      "rate": 0.85867,
+      "change_pct": -0.059358924,
+      "datetime": "2026-09-07"
     },
     {
       "symbol": "EUR/CHF",
       "name": "EUR/CHF",
-      "rate": 0.9371,
-      "change_pct": -0.38904715,
-      "datetime": "2026-09-06"
+      "rate": 0.94041,
+      "change_pct": 0.034039294,
+      "datetime": "2026-09-07"
     }
   ],
   "summary": {
     "total_indices": 1,
     "total_forex": 2,
-    "market_open": false
+    "market_open": true
   }
 }
