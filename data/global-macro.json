@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T11:29:24.949Z",
+  "updated": "2026-09-07T21:05:15.369Z",
   "ecb": {
     "main_rate": {
       "value": 2.4,
@@ -7,8 +7,8 @@
       "unit": "%"
     },
     "eurusd": {
-      "rate": 1.1628,
-      "change_1m": 0.0073,
+      "rate": 1.1648,
+      "change_1m": 0.0108,
       "label": "EUR/USD (ECB fixing)"
     }
   },
