@@ -1,15 +1,10 @@
 {
-  "updated": "2026-09-07T21:05:15.369Z",
+  "updated": "2026-09-08T10:32:18.534Z",
   "ecb": {
     "main_rate": {
       "value": 2.4,
       "label": "Taux directeur principal BCE",
       "unit": "%"
-    },
-    "eurusd": {
-      "rate": 1.1648,
-      "change_1m": 0.0108,
-      "label": "EUR/USD (ECB fixing)"
     }
   },
   "volatility": {}
