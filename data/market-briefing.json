@@ -1,7 +1,7 @@
 {
   "titre": "Correction tech sévère — Tesla et big tech sous pression, crypto en pause",
-  "date": "2026-09-05",
-  "resume_executif": "Les marchés affichent une configuration <strong>fragmentée et à la baisse sur le secteur tech</strong> : Tesla s'effondre de 5.92%, Apple chute de 2.51% et Microsoft cède 2.04%, tandis que le Nasdaq 100 (QQQ) résiste légèrement (+0,18%). Le crypto corrige (BTC -1,71%, market cap -3,16%) mais le Fear & Greed reste à 73/100 (Greed). Le dollar repart à la hausse (DXY 118,75) et l'or corrige légèrement (GLD -0,84%).",
+  "date": "2026-09-07",
+  "resume_executif": "Les marchés affichent une configuration <strong>fragmentée et à la baisse sur le secteur tech</strong> : Tesla s'effondre de 5.92%, Apple chute de 2.51% et Microsoft cède 2.04%, tandis que le Nasdaq 100 (QQQ) résiste légèrement (+0,18%). Le crypto corrige (BTC -1,71%, market cap -3,16%) mais le Fear & Greed reste à 71/100 (Greed). Le dollar repart à la hausse (DXY 118,75) et l'or corrige légèrement (GLD -0,84%).",
   "sections": [
     {
       "titre": "Contexte & Régime de marché",
@@ -15,12 +15,12 @@
     },
     {
       "titre": "Crypto & DeFi",
-      "contenu": "<p>Le marché crypto connaît une <strong>correction technique</strong> après un rallye de 30 jours spectaculaire. <strong>Bitcoin cède 1.7%</strong> à 79,649 $, <strong>Ethereum recule de 2.4%</strong> à 2,460 $, et la capitalisation totale perd 3,16% (CoinGecko). Le <strong>Fear & Greed Index à 73/100</strong> (Greed) reste élevé malgré une légère baisse, suggérant que le sentiment des investisseurs reste globalement positif. La <strong>TVL DeFi s'établit à 588.7 Mds $</strong> (DefiLlama), stable malgré la correction.</p>",
+      "contenu": "<p>Le marché crypto connaît une <strong>correction technique</strong> après un rallye de 30 jours spectaculaire. <strong>Bitcoin cède 0.6%</strong> à 79,434 $, <strong>Ethereum recule de 0.4%</strong> à 2,492 $, et la capitalisation totale perd 3,16% (CoinGecko). Le <strong>Fear & Greed Index à 71/100</strong> (Greed) reste élevé malgré une légère baisse, suggérant que le sentiment des investisseurs reste globalement positif. La <strong>TVL DeFi s'établit à 594.4 Mds $</strong> (DefiLlama), stable malgré la correction.</p>",
       "tendance": "neutre"
     },
     {
       "titre": "Matières premières & Forex",
-      "contenu": "<p>L'<strong>or corrige légèrement</strong> : l'ETF GLD perd 0.84% à 406.77 $ (Finnhub). Le <strong>pétrole (USO) est quasi-stable</strong> à 141.96 $ (-0.09%). Sur le front des devises, l'<strong>EUR/USD se maintient à 1.1622</strong> (Alpha Vantage) malgré la <strong>force du dollar index (DXY) à 118,75</strong> (+0,39 point, FRED). Le <strong>USD/JPY recule à 156.22</strong>, allégeant la pression sur la BoJ. Le <strong>GBP/USD est à 1.3518</strong>.</p>",
+      "contenu": "<p>L'<strong>or corrige légèrement</strong> : l'ETF GLD perd 0.84% à 406.77 $ (Finnhub). Le <strong>pétrole (USO) est quasi-stable</strong> à 141.96 $ (-0.09%). Sur le front des devises, l'<strong>EUR/USD se maintient à 1.1628</strong> (Alpha Vantage) malgré la <strong>force du dollar index (DXY) à 118,75</strong> (+0,39 point, FRED). Le <strong>USD/JPY recule à 154.69</strong>, allégeant la pression sur la BoJ. Le <strong>GBP/USD est à 1.3536</strong>.</p>",
       "tendance": "mixte"
     }
   ],
@@ -40,7 +40,7 @@
     "dollar",
     "ormuz"
   ],
-  "updated": "2026-09-05T18:28:24Z",
+  "updated": "2026-09-07T18:12:50Z",
   "source": "Kimi + multi-sources",
   "sources_used": [
     "news",

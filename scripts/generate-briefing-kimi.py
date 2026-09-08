@@ -13,8 +13,8 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent.parent / "data"
 HISTORY_DIR = DATA_DIR / "briefing-history"
 
-DATE_STR = "2026-09-05"
-GENERATED_AT = "2026-09-05T18:28:24Z"
+DATE_STR = "2026-09-07"
+GENERATED_AT = "2026-09-07T18:12:50Z"
 
 def load_json(name):
     p = DATA_DIR / name

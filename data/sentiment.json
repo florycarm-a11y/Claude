@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T18:28:24Z",
-  "date": "2026-09-05",
+  "updated": "2026-09-07T18:12:50Z",
+  "date": "2026-09-07",
   "global": {
     "score": -0.24,
     "tendance": "baissier",
@@ -33,11 +33,11 @@
       "score": -0.2,
       "confidence": 0.7,
       "tendance": "mixte",
-      "resume": "Le marché crypto corrige avec BTC à 79,649 $ (-1.7%) et une capitalisation totale en repli de 3,16%. Cependant, le Fear & Greed Index reste à 73/100 (Greed), en hausse de 5 points sur la semaine, signalant un sentiment encore positif malgré la pause technique.",
+      "resume": "Le marché crypto corrige avec BTC à 79,434 $ (-0.6%) et une capitalisation totale en repli de 3,16%. Cependant, le Fear & Greed Index reste à 71/100 (Greed), en hausse de 9 points sur la semaine, signalant un sentiment encore positif malgré la pause technique.",
       "signaux_cles": [
-        "BTC à 79,649 $ (24h: -1.7%, 7j: +2.6%, 30j: +23%) (CoinGecko)",
-        "Fear & Greed Index à 73/100 (Greed), +5 pts sur 7j (Alternative.me)",
-        "Capitalisation totale crypto à 2.70 T$ (-3,16% sur 24h) (CoinGecko)"
+        "BTC à 79,434 $ (24h: -0.6%, 7j: +1.1%, 30j: +22%) (CoinGecko)",
+        "Fear & Greed Index à 71/100 (Greed), +9 pts sur 7j (Alternative.me)",
+        "Capitalisation totale crypto à 2.69 T$ (-3,16% sur 24h) (CoinGecko)"
       ]
     },
     "matieres_premieres": {
@@ -64,15 +64,6 @@
     }
   },
   "historique": [
-    {
-      "date": "2026-03-09",
-      "global": -0.46,
-      "geopolitique": -0.75,
-      "marches": -0.45,
-      "crypto": 0.15,
-      "matieres_premieres": -0.68,
-      "ai_tech": -0.35
-    },
     {
       "date": "2026-03-12",
       "global": -0.6,
@@ -327,6 +318,15 @@
     },
     {
       "date": "2026-09-05",
+      "global": -0.24,
+      "geopolitique": -0.4,
+      "marches": -0.25,
+      "crypto": -0.2,
+      "matieres_premieres": -0.2,
+      "ai_tech": -0.15
+    },
+    {
+      "date": "2026-09-07",
       "global": -0.24,
       "geopolitique": -0.4,
       "marches": -0.25,

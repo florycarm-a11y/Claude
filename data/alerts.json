@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-05T18:28:24Z",
+  "updated": "2026-09-07T18:12:50Z",
   "alertes": [
     {
-      "id": "alert-2026-09-05-001",
+      "id": "alert-2026-09-07-001",
       "titre": "Tesla (TSLA) : -5.92%, perte de 22.29 $",
       "texte": "Tesla s'effondre de 5.92% à 354.08 $, sous-performant largement le marché. Cette correction s'inscrit dans une tendance de prises de bénéfices sur les valeurs de croissance les plus chères.",
       "categorie": "marches",
       "severite": "urgent",
       "impact": "baissier",
-      "horodatage": "2026-09-05T18:28:24Z",
+      "horodatage": "2026-09-07T18:12:50Z",
       "donnees": {
         "symbole": "TSLA",
         "prix": 354.08,
@@ -16,13 +16,13 @@
       }
     },
     {
-      "id": "alert-2026-09-05-002",
+      "id": "alert-2026-09-07-002",
       "titre": "Apple (AAPL) : -2.51%, retour sous 320 $",
       "texte": "Apple chute de 2.51% à 319.97 $, dans le sillage d'une correction sectorielle tech. Microsoft et Alphabet subissent des pertes similaires.",
       "categorie": "marches",
       "severite": "attention",
       "impact": "baissier",
-      "horodatage": "2026-09-05T18:28:24Z",
+      "horodatage": "2026-09-07T18:12:50Z",
       "donnees": {
         "symbole": "AAPL",
         "prix": 319.97,
@@ -30,38 +30,24 @@
       }
     },
     {
-      "id": "alert-2026-09-05-003",
-      "titre": "Cardano (ADA) : -3.5% sur 24h",
-      "texte": "Cardano recule de 3.5% sur 24h à 0.2134 $, sous-performant le marché crypto. La baisse s'inscrit dans une correction généralisée des altcoins.",
-      "categorie": "crypto",
-      "severite": "attention",
-      "impact": "baissier",
-      "horodatage": "2026-09-05T18:28:24Z",
-      "donnees": {
-        "symbole": "ADA",
-        "prix": 0.213406,
-        "variation_24h": -3.54
-      }
-    },
-    {
-      "id": "alert-2026-09-05-004",
-      "titre": "Fear & Greed : +5 pts sur 7 jours (actuellement 73)",
-      "texte": "L'indice de sentiment crypto gagne 5 points en une semaine, passant à 73/100 (Greed). Malgré la correction des prix, le sentiment reste dans la zone Greed, ce qui pourrait indiquer une surconfiance des investisseurs.",
+      "id": "alert-2026-09-07-004",
+      "titre": "Fear & Greed : +9 pts sur 7 jours (actuellement 71)",
+      "texte": "L'indice de sentiment crypto gagne 9 points en une semaine, passant à 71/100 (Greed). Malgré la correction des prix, le sentiment reste dans la zone Greed, ce qui pourrait indiquer une surconfiance des investisseurs.",
       "categorie": "macro",
       "severite": "info",
       "impact": "neutre",
-      "horodatage": "2026-09-05T18:28:24Z",
+      "horodatage": "2026-09-07T18:12:50Z",
       "donnees": {
-        "score": 73,
+        "score": 71,
         "label": "Greed",
-        "variation_7j": 5
+        "variation_7j": 9
       }
     }
   ],
   "stats": {
-    "total": 4,
+    "total": 3,
     "urgent": 1,
-    "attention": 2,
+    "attention": 1,
     "info": 1
   },
   "model": "kimi",
