@@ -1,140 +1,140 @@
 {
-  "updated": "2026-09-08T20:40:15.035Z",
+  "updated": "2026-09-09T10:43:19.850Z",
   "source": "Alpha Vantage",
   "forex": [
     {
       "pair": "EUR/USD",
-      "rate": 1.16274971,
-      "bid": 1.16269895,
-      "ask": 1.16277169,
-      "updated": "2026-09-08 20:40:08"
+      "rate": 1.16331764,
+      "bid": 1.16326826,
+      "ask": 1.16337278,
+      "updated": "2026-09-09 10:43:13"
     },
     {
       "pair": "GBP/USD",
-      "rate": 1.35427891,
-      "bid": 1.3542653,
-      "ask": 1.35428582,
-      "updated": "2026-09-08 20:40:10"
+      "rate": 1.35412325,
+      "bid": 1.35410639,
+      "ask": 1.35418703,
+      "updated": "2026-09-09 10:43:15"
     },
     {
       "pair": "USD/JPY",
-      "rate": 153.97645721,
-      "bid": 153.97398589,
-      "ask": 153.97740416,
-      "updated": "2026-09-08 20:40:11"
+      "rate": 153.54363236,
+      "bid": 153.53693018,
+      "ask": 153.54653433,
+      "updated": "2026-09-09 10:43:16"
     }
   ],
   "sectors": [],
   "topMovers": {
     "gainers": [
       {
-        "ticker": "GIPRW",
+        "ticker": "RIV^",
+        "price": 0.018,
+        "change": 0.0155,
+        "changePct": 620,
+        "volume": 33804811
+      },
+      {
+        "ticker": "GCDT",
+        "price": 0.9349,
+        "change": 0.5608,
+        "changePct": 149.9064,
+        "volume": 379022211
+      },
+      {
+        "ticker": "BNCWZ",
+        "price": 0.1395,
+        "change": 0.0821,
+        "changePct": 143.0314,
+        "volume": 223613
+      },
+      {
+        "ticker": "GFAIW",
         "price": 0.016,
-        "change": 0.0147,
-        "changePct": 1130.7692,
-        "volume": 3394
+        "change": 0.008,
+        "changePct": 100,
+        "volume": 760
       },
       {
-        "ticker": "SHFSW",
-        "price": 0.0195,
-        "change": 0.0094,
-        "changePct": 93.0693,
-        "volume": 3449
-      },
-      {
-        "ticker": "CINGW",
-        "price": 0.0113,
-        "change": 0.0053,
-        "changePct": 88.3333,
-        "volume": 101
-      },
-      {
-        "ticker": "BIAFW",
-        "price": 0.7,
-        "change": 0.3102,
-        "changePct": 79.5793,
-        "volume": 38966
-      },
-      {
-        "ticker": "IMRN",
-        "price": 1.8,
-        "change": 0.68,
-        "changePct": 60.7143,
-        "volume": 120268257
+        "ticker": "TWLVR",
+        "price": 0.1499,
+        "change": 0.0691,
+        "changePct": 85.5198,
+        "volume": 6364
       }
     ],
     "losers": [
       {
-        "ticker": "RIV^",
-        "price": 0.0028,
-        "change": -0.0052,
-        "changePct": -65,
-        "volume": 1392109
+        "ticker": "LHSW",
+        "price": 1.32,
+        "change": -3.18,
+        "changePct": -70.6667,
+        "volume": 16591237
       },
       {
-        "ticker": "GFAIW",
-        "price": 0.008,
-        "change": -0.0148,
-        "changePct": -64.9123,
-        "volume": 5857
+        "ticker": "FCUV",
+        "price": 5.91,
+        "change": -11.09,
+        "changePct": -65.2353,
+        "volume": 1310111
       },
       {
-        "ticker": "BNCWW",
-        "price": 0.0105,
-        "change": -0.0073,
-        "changePct": -41.0112,
-        "volume": 16
+        "ticker": "TMCWW",
+        "price": 0.002,
+        "change": -0.0025,
+        "changePct": -55.5556,
+        "volume": 1387547
       },
       {
-        "ticker": "NVNIW",
-        "price": 0.0163,
-        "change": -0.0112,
-        "changePct": -40.7273,
-        "volume": 10790
+        "ticker": "RETO",
+        "price": 0.51,
+        "change": -0.55,
+        "changePct": -51.8868,
+        "volume": 1763905
       },
       {
-        "ticker": "BANL",
-        "price": 9.01,
-        "change": -6.19,
-        "changePct": -40.7237,
-        "volume": 211363
+        "ticker": "DUKRW",
+        "price": 0.8001,
+        "change": -0.7599,
+        "changePct": -48.7115,
+        "volume": 3006
       }
     ],
     "mostActive": [
       {
-        "ticker": "GPRO",
-        "price": 1.7,
-        "change": 0.31,
-        "changePct": 22.3022,
-        "volume": 275716073
+        "ticker": "PDSB",
+        "price": 0.3,
+        "change": 0.08,
+        "changePct": 36.3636,
+        "volume": 480187143
       },
       {
-        "ticker": "DVLT",
-        "price": 0.2041,
-        "change": -0.0678,
-        "changePct": -24.9356,
-        "volume": 244472199
+        "ticker": "GCDT",
+        "price": 0.9349,
+        "change": 0.5608,
+        "changePct": 149.9064,
+        "volume": 379022211
       },
       {
-        "ticker": "TSLL",
-        "price": 9.15,
-        "change": -1.23,
-        "changePct": -11.8497,
-        "volume": 134846226
+        "ticker": "INTC",
+        "price": 104.47,
+        "change": 8.67,
+        "changePct": 9.0501,
+        "volume": 138170348
       },
       {
-        "ticker": "NVDA",
-        "price": 230.36,
-        "change": 1.91,
-        "changePct": 0.8361,
-        "volume": 131784191
+        "ticker": "MOBX",
+        "price": 1.27,
+        "change": 0.3399,
+        "changePct": 36.5445,
+        "volume": 131584489
       },
       {
-        "ticker": "BAOS",
-        "price": 0.3261,
-        "change": 0.0454,
-        "changePct": 16.1739,
-        "volume": 121429125
+        "ticker": "ATAI",
+        "price": 7.28,
+        "change": -0.11,
+        "changePct": -1.4885,
+        "volume": 119705730
       }
     ]
   }
