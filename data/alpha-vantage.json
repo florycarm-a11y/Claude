@@ -1,140 +1,140 @@
 {
-  "updated": "2026-09-09T20:22:21.731Z",
+  "updated": "2026-09-10T10:32:03.580Z",
   "source": "Alpha Vantage",
   "forex": [
     {
       "pair": "EUR/USD",
-      "rate": 1.16327611,
-      "bid": 1.16327326,
-      "ask": 1.16333078,
-      "updated": "2026-09-09 20:22:15"
+      "rate": 1.16337244,
+      "bid": 1.16332538,
+      "ask": 1.16342526,
+      "updated": "2026-09-10 10:31:57"
     },
     {
       "pair": "GBP/USD",
-      "rate": 1.35428594,
-      "bid": 1.35426745,
-      "ask": 1.35431113,
-      "updated": "2026-09-09 20:22:16"
+      "rate": 1.35426766,
+      "bid": 1.35426651,
+      "ask": 1.35431574,
+      "updated": "2026-09-10 10:31:58"
     },
     {
       "pair": "USD/JPY",
-      "rate": 153.64639292,
-      "bid": 153.63974771,
-      "ask": 153.65075648,
-      "updated": "2026-09-09 20:22:18"
+      "rate": 153.85387771,
+      "bid": 153.85270073,
+      "ask": 153.85657785,
+      "updated": "2026-09-10 10:32:00"
     }
   ],
   "sectors": [],
   "topMovers": {
     "gainers": [
       {
-        "ticker": "RIV^",
-        "price": 0.018,
-        "change": 0.0155,
-        "changePct": 620,
-        "volume": 33804811
+        "ticker": "MGN",
+        "price": 0.2758,
+        "change": 0.1754,
+        "changePct": 174.7012,
+        "volume": 265389609
       },
       {
-        "ticker": "GCDT",
-        "price": 0.9349,
-        "change": 0.5608,
-        "changePct": 149.9064,
-        "volume": 379022211
+        "ticker": "SUNE",
+        "price": 4.51,
+        "change": 2.14,
+        "changePct": 90.2954,
+        "volume": 112073501
       },
       {
-        "ticker": "BNCWZ",
-        "price": 0.1395,
-        "change": 0.0821,
-        "changePct": 143.0314,
-        "volume": 223613
+        "ticker": "YMAT",
+        "price": 2.27,
+        "change": 0.945,
+        "changePct": 71.3208,
+        "volume": 35044678
       },
       {
-        "ticker": "GFAIW",
-        "price": 0.016,
-        "change": 0.008,
-        "changePct": 100,
-        "volume": 760
+        "ticker": "NCPLW",
+        "price": 0.0349,
+        "change": 0.0139,
+        "changePct": 66.1905,
+        "volume": 4105
       },
       {
-        "ticker": "TWLVR",
-        "price": 0.1499,
-        "change": 0.0691,
-        "changePct": 85.5198,
-        "volume": 6364
+        "ticker": "NCOOW",
+        "price": 0.05,
+        "change": 0.0199,
+        "changePct": 66.113,
+        "volume": 6470
       }
     ],
     "losers": [
       {
-        "ticker": "LHSW",
-        "price": 1.32,
-        "change": -3.18,
-        "changePct": -70.6667,
-        "volume": 16591237
-      },
-      {
-        "ticker": "FCUV",
-        "price": 5.91,
-        "change": -11.09,
-        "changePct": -65.2353,
-        "volume": 1310111
+        "ticker": "NTRBW",
+        "price": 0.2,
+        "change": -0.35,
+        "changePct": -63.6364,
+        "volume": 10287
       },
       {
         "ticker": "TMCWW",
-        "price": 0.002,
-        "change": -0.0025,
-        "changePct": -55.5556,
-        "volume": 1387547
+        "price": 0.0011,
+        "change": -0.0009,
+        "changePct": -45,
+        "volume": 2021465
       },
       {
-        "ticker": "RETO",
-        "price": 0.51,
-        "change": -0.55,
-        "changePct": -51.8868,
-        "volume": 1763905
+        "ticker": "CRMT",
+        "price": 1.475,
+        "change": -1.015,
+        "changePct": -40.7631,
+        "volume": 2764234
       },
       {
-        "ticker": "DUKRW",
-        "price": 0.8001,
-        "change": -0.7599,
-        "changePct": -48.7115,
-        "volume": 3006
+        "ticker": "BEATW",
+        "price": 0.007,
+        "change": -0.0047,
+        "changePct": -40.1709,
+        "volume": 74906
+      },
+      {
+        "ticker": "PIIIW",
+        "price": 0.0074,
+        "change": -0.0048,
+        "changePct": -39.3443,
+        "volume": 11980
       }
     ],
     "mostActive": [
       {
-        "ticker": "PDSB",
-        "price": 0.3,
-        "change": 0.08,
-        "changePct": 36.3636,
-        "volume": 480187143
+        "ticker": "OLB",
+        "price": 0.335,
+        "change": 0.0618,
+        "changePct": 22.6208,
+        "volume": 304625641
       },
       {
-        "ticker": "GCDT",
-        "price": 0.9349,
-        "change": 0.5608,
-        "changePct": 149.9064,
-        "volume": 379022211
+        "ticker": "MGN",
+        "price": 0.2758,
+        "change": 0.1754,
+        "changePct": 174.7012,
+        "volume": 265389609
       },
       {
-        "ticker": "INTC",
-        "price": 104.47,
-        "change": 8.67,
-        "changePct": 9.0501,
-        "volume": 138170348
+        "ticker": "AGRZ",
+        "price": 0.2507,
+        "change": 0.0242,
+        "changePct": 10.6843,
+        "volume": 177792625
       },
       {
-        "ticker": "MOBX",
-        "price": 1.27,
-        "change": 0.3399,
-        "changePct": 36.5445,
-        "volume": 131584489
+        "ticker": "FAMI",
+        "price": 0.13,
+        "change": 0.013,
+        "changePct": 11.1111,
+        "volume": 150854030
       },
       {
-        "ticker": "ATAI",
-        "price": 7.28,
-        "change": -0.11,
-        "changePct": -1.4885,
-        "volume": 119705730
+        "ticker": "GRAB",
+        "price": 3.04,
+        "change": -0.21,
+        "changePct": -6.4615,
+        "volume": 147935134
       }
     ]
   }
