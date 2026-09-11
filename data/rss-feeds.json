@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-11T10:32:56.750Z",
+  "updated": "2026-09-11T20:25:19.340Z",
   "feeds": [
     {
       "source": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_international.xml",
       "count": 5,
       "ok": true,
-      "relevant": 5
+      "relevant": 4
     },
     {
       "source": "France 24",
@@ -20,14 +20,14 @@
       "url": "https://www.rfi.fr/fr/rss",
       "count": 5,
       "ok": true,
-      "relevant": 2
+      "relevant": 3
     },
     {
       "source": "Courrier International",
       "url": "https://www.courrierinternational.com/feed/all/rss.xml",
       "count": 5,
       "ok": true,
-      "relevant": 1
+      "relevant": 3
     },
     {
       "source": "Le Monde Diplomatique",
@@ -41,14 +41,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "count": 5,
       "ok": true,
-      "relevant": 3
+      "relevant": 2
     },
     {
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "count": 5,
       "ok": true,
-      "relevant": 4
+      "relevant": 2
     },
     {
       "source": "The Guardian",
@@ -76,7 +76,7 @@
       "url": "https://www.politico.eu/feed/",
       "count": 5,
       "ok": true,
-      "relevant": 1
+      "relevant": 4
     },
     {
       "source": "Foreign Policy",
@@ -139,7 +139,7 @@
       "url": "https://www.middleeasteye.net/rss",
       "count": 5,
       "ok": true,
-      "relevant": 5
+      "relevant": 2
     },
     {
       "source": "IFRI",
@@ -216,28 +216,28 @@
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
       "count": 5,
       "ok": true,
-      "relevant": 5
+      "relevant": 2
     },
     {
       "source": "Le Figaro",
       "url": "https://www.lefigaro.fr/rss/figaro_conjoncture.xml",
       "count": 5,
       "ok": true,
-      "relevant": 3
+      "relevant": 4
     },
     {
       "source": "Le Figaro Sociétés",
       "url": "https://www.lefigaro.fr/rss/figaro_societes.xml",
       "count": 5,
       "ok": true,
-      "relevant": 5
+      "relevant": 3
     },
     {
       "source": "Le Figaro Flash Éco",
       "url": "https://www.lefigaro.fr/rss/figaro_flash-eco.xml",
       "count": 5,
       "ok": true,
-      "relevant": 4
+      "relevant": 1
     },
     {
       "source": "Les Echos",
@@ -251,7 +251,7 @@
       "url": "https://www.bfmtv.com/rss/economie/",
       "count": 5,
       "ok": true,
-      "relevant": 0
+      "relevant": 4
     },
     {
       "source": "Zonebourse",
@@ -265,7 +265,7 @@
       "url": "https://www.latribune.fr/feed.xml",
       "count": 5,
       "ok": true,
-      "relevant": 3
+      "relevant": 2
     },
     {
       "source": "Capital",
@@ -286,7 +286,7 @@
       "url": "https://finance.yahoo.com/news/rssindex",
       "count": 5,
       "ok": true,
-      "relevant": 3
+      "relevant": 2
     },
     {
       "source": "Seeking Alpha",
@@ -300,14 +300,14 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "count": 5,
       "ok": true,
-      "relevant": 5
+      "relevant": 3
     },
     {
       "source": "Investing.com",
       "url": "https://www.investing.com/rss/news.rss",
       "count": 5,
       "ok": true,
-      "relevant": 2
+      "relevant": 4
     },
     {
       "source": "Wolf Street",
@@ -326,9 +326,9 @@
     {
       "source": "Naked Capitalism",
       "url": "https://www.nakedcapitalism.com/feed",
-      "count": 5,
-      "ok": true,
-      "relevant": 5
+      "count": 0,
+      "ok": false,
+      "error": "HTTP 403: https://www.nakedcapitalism.com/feed"
     },
     {
       "source": "TLDR Fintech",
@@ -587,14 +587,14 @@
       "url": "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml",
       "count": 5,
       "ok": true,
-      "relevant": 2
+      "relevant": 3
     },
     {
       "source": "Numerama",
       "url": "https://www.numerama.com/feed/",
       "count": 5,
       "ok": true,
-      "relevant": 1
+      "relevant": 2
     },
     {
       "source": "Next INpact",
@@ -615,7 +615,7 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "count": 5,
       "ok": true,
-      "relevant": 3
+      "relevant": 2
     },
     {
       "source": "Ars Technica",
@@ -636,7 +636,7 @@
       "url": "https://hnrss.org/frontpage?count=15",
       "count": 5,
       "ok": true,
-      "relevant": 1
+      "relevant": 4
     },
     {
       "source": "VentureBeat AI",
@@ -662,9 +662,9 @@
     {
       "source": "MarkTechPost",
       "url": "https://www.marktechpost.com/feed/",
-      "count": 0,
+      "count": 5,
       "ok": true,
-      "relevant": 0
+      "relevant": 5
     },
     {
       "source": "The Decoder",
@@ -734,14 +734,14 @@
       "url": "https://www.lemonde.fr/economie/rss_full.xml",
       "count": 5,
       "ok": true,
-      "relevant": 2
+      "relevant": 3
     },
     {
       "source": "Challenges",
       "url": "https://www.challenges.fr/rss.xml",
       "count": 5,
       "ok": true,
-      "relevant": 4
+      "relevant": 3
     },
     {
       "source": "MoneyVox",
@@ -1144,8 +1144,8 @@
     }
   ],
   "stats": {
-    "success": 111,
-    "failed": 52,
-    "articles": 472
+    "success": 110,
+    "failed": 53,
+    "articles": 470
   }
 }

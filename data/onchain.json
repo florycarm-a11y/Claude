@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-11T10:33:15.103Z",
+  "updated": "2026-09-11T20:25:37.666Z",
   "btc_fees": {
-    "fastest": 2,
+    "fastest": 3,
     "half_hour": 1,
     "hour": 1,
     "economy": 1,
@@ -9,7 +9,7 @@
     "unit": "sat/vB"
   },
   "btc_mining": {
-    "hashrate_eh": 932.08,
+    "hashrate_eh": 940.48,
     "difficulty": 127450789715843.1,
     "unit": "EH/s"
   }
