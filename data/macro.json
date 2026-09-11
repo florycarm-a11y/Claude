@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:24:23.255Z",
+  "updated": "2026-09-11T10:33:06.380Z",
   "source": "FRED (Federal Reserve Economic Data)",
   "indicators": [
     {
@@ -83,14 +83,14 @@
     {
       "id": "T10Y2Y",
       "label": "Spread 10Y-2Y",
-      "value": 0.4,
-      "date": "2026-09-09",
+      "value": 0.39,
+      "date": "2026-09-10",
       "unit": "%",
       "change": -0.01,
       "change_type": "abs",
       "previous": {
-        "value": 0.41,
-        "date": "2026-09-08"
+        "value": 0.4,
+        "date": "2026-09-09"
       }
     },
     {
@@ -109,14 +109,14 @@
     {
       "id": "WALCL",
       "label": "Bilan Fed (actifs)",
-      "value": 6737204,
-      "date": "2026-09-02",
+      "value": 6740619,
+      "date": "2026-09-09",
       "unit": "M $",
-      "change": 6292,
+      "change": 3415,
       "change_type": "abs",
       "previous": {
-        "value": 6730912,
-        "date": "2026-08-26"
+        "value": 6737204,
+        "date": "2026-09-02"
       }
     },
     {
