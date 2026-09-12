@@ -1,140 +1,140 @@
 {
-  "updated": "2026-09-11T20:25:34.696Z",
+  "updated": "2026-09-12T10:02:46.386Z",
   "source": "Alpha Vantage",
   "forex": [
     {
       "pair": "EUR/USD",
-      "rate": 1.15989237,
-      "bid": 1.15988535,
-      "ask": 1.15989939,
-      "updated": "2026-09-11 20:25:28"
+      "rate": 1.16022198,
+      "bid": 1.16020707,
+      "ask": 1.1602656,
+      "updated": "2026-09-12 10:02:40"
     },
     {
       "pair": "GBP/USD",
-      "rate": 1.35271385,
-      "bid": 1.35268294,
-      "ask": 1.35276485,
-      "updated": "2026-09-11 20:25:29"
+      "rate": 1.35293556,
+      "bid": 1.35293116,
+      "ask": 1.35297344,
+      "updated": "2026-09-12 10:02:41"
     },
     {
       "pair": "USD/JPY",
-      "rate": 153.67163695,
-      "bid": 153.66517506,
-      "ask": 153.67277412,
-      "updated": "2026-09-11 20:25:31"
+      "rate": 153.55418564,
+      "bid": 153.55153683,
+      "ask": 153.55835464,
+      "updated": "2026-09-12 10:02:43"
     }
   ],
   "sectors": [],
   "topMovers": {
     "gainers": [
       {
-        "ticker": "TNON",
-        "price": 5.3,
-        "change": 2.86,
-        "changePct": 117.2131,
-        "volume": 120000889
-      },
-      {
-        "ticker": "NXATW",
-        "price": 0.021,
-        "change": 0.011,
-        "changePct": 110,
-        "volume": 108887
-      },
-      {
-        "ticker": "DBGI",
-        "price": 6.79,
-        "change": 3.04,
-        "changePct": 81.0667,
-        "volume": 26139003
-      },
-      {
-        "ticker": "DUKRW",
-        "price": 1.325,
-        "change": 0.5249,
-        "changePct": 65.6043,
-        "volume": 2551
-      },
-      {
         "ticker": "NTRBW",
-        "price": 0.325,
-        "change": 0.125,
-        "changePct": 62.5,
-        "volume": 7206
+        "price": 1.24,
+        "change": 0.915,
+        "changePct": 281.5385,
+        "volume": 9208
+      },
+      {
+        "ticker": "SABSW",
+        "price": 0.0395,
+        "change": 0.0255,
+        "changePct": 182.1429,
+        "volume": 47595
+      },
+      {
+        "ticker": "CHPGR",
+        "price": 0.1888,
+        "change": 0.1048,
+        "changePct": 124.7619,
+        "volume": 962242
+      },
+      {
+        "ticker": "BEATW",
+        "price": 0.0147,
+        "change": 0.0077,
+        "changePct": 110,
+        "volume": 908
+      },
+      {
+        "ticker": "BDRX",
+        "price": 1.3,
+        "change": 0.6324,
+        "changePct": 94.7274,
+        "volume": 139267095
       }
     ],
     "losers": [
       {
-        "ticker": "MKDW",
-        "price": 5.1,
-        "change": -4.8,
-        "changePct": -48.4848,
-        "volume": 369499
+        "ticker": "ASTLW",
+        "price": 0.0048,
+        "change": -0.0075,
+        "changePct": -60.9756,
+        "volume": 138352
       },
       {
-        "ticker": "SWRD",
-        "price": 2.23,
-        "change": -1.87,
-        "changePct": -45.6098,
-        "volume": 2032027
+        "ticker": "NCPLW",
+        "price": 0.0167,
+        "change": -0.0182,
+        "changePct": -52.149,
+        "volume": 3006
       },
       {
-        "ticker": "CDT",
-        "price": 0.3448,
-        "change": -0.2553,
-        "changePct": -42.5429,
-        "volume": 40690445
+        "ticker": "NMCO^",
+        "price": 0.016,
+        "change": -0.0155,
+        "changePct": -49.2063,
+        "volume": 1239304
       },
       {
-        "ticker": "PARAW",
-        "price": 0.0073,
-        "change": -0.0051,
-        "changePct": -41.129,
-        "volume": 3000
+        "ticker": "BIAFW",
+        "price": 0.2528,
+        "change": -0.1972,
+        "changePct": -43.8222,
+        "volume": 6567
       },
       {
-        "ticker": "RIV^",
-        "price": 0.0162,
-        "change": -0.0108,
-        "changePct": -40,
-        "volume": 785858
+        "ticker": "LTRYW",
+        "price": 0.0027,
+        "change": -0.0021,
+        "changePct": -43.75,
+        "volume": 108132
       }
     ],
     "mostActive": [
       {
-        "ticker": "IPDN",
-        "price": 0.1404,
-        "change": 0.0153,
-        "changePct": 12.2302,
-        "volume": 494122475
+        "ticker": "TRUG",
+        "price": 0.6533,
+        "change": 0.2824,
+        "changePct": 76.1391,
+        "volume": 419186150
       },
       {
-        "ticker": "SNYR",
-        "price": 0.108,
-        "change": 0.0253,
-        "changePct": 30.5925,
-        "volume": 283386378
+        "ticker": "SURG",
+        "price": 0.1731,
+        "change": 0.0086,
+        "changePct": 5.228,
+        "volume": 204254014
       },
       {
-        "ticker": "AEON",
-        "price": 0.2978,
-        "change": 0.0668,
-        "changePct": 28.9177,
-        "volume": 198126683
+        "ticker": "BDRX",
+        "price": 1.3,
+        "change": 0.6324,
+        "changePct": 94.7274,
+        "volume": 139267095
       },
       {
-        "ticker": "TNON",
-        "price": 5.3,
-        "change": 2.86,
-        "changePct": 117.2131,
-        "volume": 120000889
+        "ticker": "KHC",
+        "price": 24.6,
+        "change": 0.21,
+        "changePct": 0.861,
+        "volume": 123581964
       },
       {
-        "ticker": "SLXN",
-        "price": 0.4225,
-        "change": 0.079,
-        "changePct": 22.9985,
-        "volume": 117870579
+        "ticker": "ACVA",
+        "price": 10.415,
+        "change": 3.195,
+        "changePct": 44.2521,
+        "volume": 114834982
       }
     ]
   }

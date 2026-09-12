@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-11T20:26:05.558Z",
+  "updated": "2026-09-12T10:03:15.606Z",
   "source": "Twelve Data",
   "indices": [
     {
       "symbol": "DAX",
       "name": "DAX (Francfort)",
       "country": "DE",
-      "price": 45.9,
-      "open": 45.965,
-      "high": 45.965,
-      "low": 45.865,
+      "price": 45.874,
+      "open": 45.91,
+      "high": 46.09,
+      "low": 45.81,
       "prev_close": 45.46,
-      "change": 0.44000092,
-      "change_pct": 0.96788589,
-      "volume": 429,
+      "change": 0.41400146,
+      "change_pct": 0.91069396,
+      "volume": 8900,
       "exchange": "NASDAQ",
       "datetime": "2026-09-11"
     }
@@ -22,16 +22,16 @@
     {
       "symbol": "EUR/GBP",
       "name": "EUR/GBP",
-      "rate": 0.85713,
-      "change_pct": -0.25601341,
-      "datetime": "2026-09-11"
+      "rate": 0.85732,
+      "change_pct": -0.024488939,
+      "datetime": "2026-09-12"
     },
     {
       "symbol": "EUR/CHF",
       "name": "EUR/CHF",
-      "rate": 0.94683,
-      "change_pct": 0.31466531,
-      "datetime": "2026-09-11"
+      "rate": 0.94699,
+      "change_pct": -0.0021119101,
+      "datetime": "2026-09-12"
     }
   ],
   "summary": {
